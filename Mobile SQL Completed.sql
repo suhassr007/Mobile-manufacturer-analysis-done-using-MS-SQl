@@ -1,4 +1,4 @@
---SQL Advance Case Study
+--SQL Advanced mobile manufacturer analysis.
 
 --Q1--BEGIN
 
